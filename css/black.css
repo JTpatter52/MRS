@@ -1,0 +1,192 @@
+BODY	{
+	scrollbar-base-color: #000000;
+	scrollbar-track-color: #333333;
+	scrollbar-arrow-color: #8BC1AD;
+	backgroUnd-color: #000000;
+	}
+
+
+
+
+/* NON-MENU LINK COLORS */
+
+a:link, a:visited, a:active	{ color: #81CBB0; text-decoration: none; }
+
+a:hover				{ color: #FFCC00; text-decoration: none; }
+
+
+
+
+
+/* PAGE FONTS AND TITLES */
+
+/* THE NEXT LINE CONTROLS THE FONT SIZE ON ALL PAGES */
+
+TABLE		{ COLOR: #C0C0C0; FONT: 11px verdana, arial, sans-serif; font-weight: bold; }
+
+.title		{ COLOR: #FFFFFF; FONT: 18px verdana, arial, sans-serif; font-weight: bold; }
+
+.subtitle	{ COLOR: #DCD7EC; FONT: 14px verdana, arial, sans-serif; font-weight: bold; }
+
+.smalltitle 	{ COLOR: #8BC1AD; FONT: 13px verdana, arial, sans-serif; font-weight: bold; }
+
+.date-font	{ color: #FFFFFF; font: 10px verdana, arial, sans-serif; font-weight: bold; }
+
+#date-location	{ left: 10px; POSITION: absolute; TOP: 65px; }
+
+
+
+/* GENERAL TEXT SIZES and COLORS */
+
+.smalltext		{ COLOR: #99CC99; FONT: 11px arial, sans-serif; font-weight: bold; }
+
+.footer			{ COLOR: #C0C0C0; FONT: 9px verdana, arial, sans-serif; font-weight: bold; }
+
+.phonetitle		{ COLOR: #8BC1AD; FONT: 13px arial, sans-serif; font-weight: bold; }
+
+.list 			{ COLOR: #CCCC99; FONT: 12px verdana, arial, sans-serif; font-weight: normal; }
+
+
+
+
+
+
+/* HEADER BACKGROUND COLOR - edit the header.js also */
+
+.headercolor		{ background-color: #000000; }
+
+
+
+
+
+
+/* NON GALLERY IMAGE BORDERS */
+
+.borders		{ border: #C0C0C0 1px solid; }
+
+
+
+
+
+/* SHADOW AND CORNER IMAGE */
+
+#cornerimage		{ background-image: url("../picts/black/corner.gif"); }
+
+.pageheight		{ background-image: none; }
+
+.shadow-horizontal	{ background-image: none; }
+
+
+
+
+
+
+
+/* GALLERY & PRODUCTS CODE */
+
+.price			{ COLOR: #CCCC99; FONT: 14px verdana, arial, sans-serif; font-weight: bold; }
+
+.picturetitle 		{
+			COLOR: #FFFFFF;
+			FONT: 13px arial, verdana, sans-serif;
+			font-weight: bold;
+			}
+
+.gallerytext	{ COLOR: #F0F0F0; FONT: 10px verdana, arial, sans-serif; font-weight: bold; }
+
+
+.viewer-border		{ border: #C0C0C0 1px solid; }
+
+.Galborder	 	{ border: #C0C0C0 1px solid; margin-bottom: 3px; }
+
+A:hover .Galborder 	{ border: #33CCCC 1px solid; margin-bottom: 3px; Filter: Alpha(Opacity=80);-moz-opacity: 0.8; }
+
+
+
+
+
+
+
+
+
+/* PAGE LINES & BORDERS */
+
+.pagebars	{
+		background-color: #000000;
+		background-image: url("../picts/black/bar.jpg");
+		height: 8px;
+		border: solid #808080;
+		border-width: 1px 0px 1px 0px;
+		/* NOTE: BORDERs ABOVE ARE | top | right | bottom | left */
+		}
+
+.pagebar-bottom	{
+		background-color: #000000;
+		background-image: url("../picts/black/bar.jpg");
+		height: 25px;
+		border: solid #808080;
+		border-width: 1px 0px 1px 0px;
+		/* NOTE: BORDERs ABOVE ARE | top | right | bottom | left */
+		}
+
+.page-splits		{
+			border: #41504E 1px solid;
+			background-color: #000000;
+			color: #000000;
+			}
+
+.faqline		{ border-bottom: #C0C0C0 1px solid; }
+
+
+
+
+
+
+
+
+
+
+/* LEFT SIDEBAR OPTIONS */
+
+.sidebar-background, .sidebar-background2
+			{
+			background-image: url("../picts/black/background-sidebar.gif");
+			background-color: #000000;
+			background-repeat: repeat-y;
+			}
+
+.sideborder		{ BORDER: #C0C0C0 1px solid; }
+
+.sidebartitle		{ COLOR: #FFFFFF; FONT: 13px verdana, arial, sans-serif; font-weight: bold; }
+
+.sidebartext		{ color: #C0C0C0; FONT: 11px arial, verdana,  sans-serif; font-weight: bold; }
+
+
+a.sidelink:link, a.sidelink:visited, a.sidelink:active	{ color: #99FF99; text-decoration: none; }
+
+a.sidelink:hover					{ color: #FFCC00; text-decoration: none; }
+
+
+
+
+
+
+
+
+
+
+/* FOR RIGHT SIDEBAR */
+
+.sidebartext-right	{ color: #C0C0C0; FONT: 11px arial, verdana,  sans-serif; font-weight: bold; }
+
+fieldset 	{
+		border: #4F675E 1px solid;
+		}
+
+fieldset legend {
+		FONT: bold 13px arial, verdana, sans-serif;
+		COLOR: #FFFFFF;
+		border:1px solid #8BC1AD;
+		background-color: #263431;
+		}
+

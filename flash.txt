@@ -1,0 +1,8 @@
+logo=MRS Appraisals
+&backgroundletters=MRS
+&textline1=Residential, Multi-Family, Condominium, and FHA
+&textline2=Commercial, Condemnation, and Agriculture 
+&textline3=Land Development and Land Sales
+&textline4=MRS Appraisals, L.C.
+
+&url=index.html

@@ -1,0 +1,145 @@
+<form method="post" action="http://www.startlogic.com/scripts/formsender.html" enctype="application/x-www-form-urlencoded">
+<table>  <tr>
+    <th align="right">
+      Name:
+    </th>
+    <td>
+      <input type="text" name="Name"  size="30" />
+    </td>
+  </tr>
+  <tr>
+    <th align="right">
+      Company Name:
+    </th>
+    <td>
+      <input type="text" name="Company_Name"  size="30" />
+    </td>
+  </tr>
+  <tr>
+    <th align="right">
+      Phone:
+    </th>
+    <td>
+      <input type="text" name="Phone"  size="30" />
+    </td>
+  </tr>
+  <tr>
+    <th align="right">
+      Fax:
+    </th>
+    <td>
+      <input type="text" name="Fax"  size="30" />
+    </td>
+  </tr>
+  <tr>
+    <th align="right">
+      Email:
+    </th>
+    <td>
+      <input type="text" name="Email"  size="30" />
+    </td>
+  </tr>
+  <tr>
+    <th align="right">
+      Property Address:
+    </th>
+    <td>
+      <input type="text" name="Property_Address"  size="30" />
+    </td>
+  </tr>
+  <tr>
+    <th align="right">
+      City:
+    </th>
+    <td>
+      <input type="text" name="City"  size="30" />
+    </td>
+  </tr>
+  <tr>
+    <th align="right">
+      State:
+    </th>
+    <td>
+      <input type="text" name="State"  size="30" />
+    </td>
+  </tr>
+  <tr>
+    <th align="right">
+      Zip Code:
+    </th>
+    <td>
+      <input type="text" name="Zip_Code"  size="30" />
+    </td>
+  </tr>
+  <tr>
+    <th align="right">
+      Current Owner:
+    </th>
+    <td>
+      <input type="text" name="Current_Owner"  size="30" />
+    </td>
+  </tr>
+  <tr>
+    <th align="right">
+      Contact for Property Access:
+    </th>
+    <td>
+      <input type="text" name="Contact_for_Property_Access"  size="30" />
+    </td>
+  </tr>
+  <tr>
+    <th align="right">
+      Phone for Property Owner:
+    </th>
+    <td>
+      <input type="text" name="Phone_for_Property_Owner"  size="30" />
+    </td>
+  </tr>
+  <tr>
+    <th align="right">
+      Summary:
+    </th>
+    <td>
+      <input type="checkbox" name="Summary" value="" />
+    </td>
+  </tr>
+  <tr>
+    <th align="right">
+      Vacant Land:
+    </th>
+    <td>
+      <input type="checkbox" name="Vacant_Land" value="" />
+    </td>
+  </tr>
+  <tr>
+    <th align="right">
+      Desk Field Review:
+    </th>
+    <td>
+      <input type="checkbox" name="Desk_Field_Review" value="" />
+    </td>
+  </tr>
+  <tr>
+    <th align="right">
+      Commercial or Agriculture:
+    </th>
+    <td>
+      <input type="checkbox" name="Commercial_or_Agriculture" value="" />
+    </td>
+  </tr>
+  <tr>
+    <th align="right">
+      Other:
+    </th>
+    <td>
+      <input type="checkbox" name="Other" value="" />
+    </td>
+  </tr>
+  <tr>
+    <th></th>
+    <td>
+     <input type="submit" name="Form_Submit" value="Submit Form" />
+    </td>
+  </tr>
+</table><input type="hidden" name="form_id" value="41989" /><div><input type="hidden" name=".cgifields" value="Desk_Field_Review" /><input type="hidden" name=".cgifields" value="Other" /><input type="hidden" name=".cgifields" value="Vacant_Land" /><input type="hidden" name=".cgifields" value="Summary" /><input type="hidden" name=".cgifields" value="Commercial_or_Agriculture" /></div>
+</form>

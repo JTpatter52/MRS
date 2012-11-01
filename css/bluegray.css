@@ -1,0 +1,208 @@
+BODY	{
+	scrollbar-base-color: #54627C;
+	scrollbar-track-color: #000000;
+	scrollbar-arrow-color: #FFFFFF;
+	backgroUnd-color: #54627C;
+	background-image: url("../picts/bluegray/background-main.jpg");
+	}
+
+
+
+
+/* NON-MENU LINK COLORS */
+
+a:link, a:visited, a:active	{ color: #CCFFFF; text-decoration: none; }
+
+a:hover				{ color: #CCFF99; text-decoration: none; text-decoration: underline; }
+
+
+
+
+
+/* PAGE FONTS AND TITLES */
+
+/* THE NEXT LINE CONTROLS THE FONT SIZE ON ALL PAGES */
+
+TABLE		{ COLOR: #FFFFFF; FONT: 12px arial, verdana, sans-serif; font-weight: bold; }
+
+.title		{ COLOR: #FFFFFF; FONT: 18px arial, verdana, sans-serif; font-weight: bold; }
+
+.subtitle	{ COLOR: #FFFFFF; FONT: 17px arial, verdana, sans-serif; font-weight: bold; }
+
+.smalltitle 	{ COLOR: #CBD5E4; FONT: 13px verdana, arial, sans-serif; font-weight: bold; }
+
+.date-font	{ color: #FFFFFF; font: 10px verdana, arial, sans-serif; font-weight: bold; }
+
+#date-location	{ right: 10px; POSITION: absolute; TOP: 70px; }
+
+
+
+/* GENERAL TEXT SIZES and COLORS */
+
+.smalltext		{ COLOR: #C0C0C0; FONT: 11px arial, sans-serif; font-weight: bold; }
+
+.footer			{ COLOR: #FFFFFF; FONT: 9px verdana, arial, sans-serif; font-weight: bold; }
+
+.phonetitle		{ COLOR: #CCFFFF; FONT: 13px arial, sans-serif; font-weight: bold; }
+
+.list 			{ COLOR: #000000; FONT: 14px verdana, arial, sans-serif; font-weight: normal; }
+
+
+
+
+
+
+
+
+
+/* HEADER BACKGROUND COLOR - edit the header.js also */
+
+.headercolor		{ background-color: #000000; }
+
+
+
+
+
+/* SHADOW AND CORNER IMAGE */
+
+#cornerimage		{ background-image: url("../picts/bluegray/corner.gif"); }
+
+.pageheight		{ background-image: url("../picts/bluegray/shadow-verticalBG.gif"); background-repeat: repeat-y; }
+
+.shadow-horizontal	{ background-image: url("../picts/bluegray/shadow-horizontalBG.gif"); background-repeat: repeat-x; }
+
+
+
+
+
+
+
+/* GALLERY & PRODUCTS CODE */
+
+.price			{ COLOR: #CCFFCC; FONT: 16px verdana, arial, sans-serif; font-weight: bold; }
+
+.picturename		{
+			COLOR: #FFFFFF;
+			FONT: 16px arial, verdana, sans-serif;
+			font-weight: bold;
+			margin-left: 10px;
+			}
+
+
+.picturetitle 		{
+			COLOR: #FFFFFF;
+			FONT: 13px arial, verdana, sans-serif;
+			font-weight: bold;
+			}
+
+.ordertitle		{ COLOR: #FFFFFF; FONT: 16px arial, verdana, sans-serif; font-weight: bold; }
+
+.gallerytext		{ COLOR: #FFFFFF; FONT: 12px arial, verdana, sans-serif; font-weight: bold; }
+
+
+.viewer-border		{ border: #FFFFFF 1px solid; }
+
+.Galborder	 	{ border: #CBD5E4 1px solid; margin-bottom: 3px; }
+
+A:hover .Galborder 	{ border: #000000 1px solid; margin-bottom: 3px; Filter: Alpha(Opacity=80);-moz-opacity: 0.8; }
+
+
+
+
+
+
+
+
+
+/* PAGE LINES & BORDERS */
+
+.pagebars	{
+		background-color: #54627C;
+		background-image: url("../picts/bluegray/bar.jpg");
+		height: 15px;
+		border: solid #000000;
+		border-width: 1px 0px 1px 0px;
+		/* NOTE: BORDERs ABOVE ARE | top | right | bottom | left */
+		}
+
+.pagebar-bottom	{
+		background-color: #54627C;
+		background-image: url("../picts/bluegray/bar.jpg");
+		height: 25px;
+		border: solid #000000;
+		border-width: 1px 0px 1px 0px;
+		/* NOTE: BORDERs ABOVE ARE | top | right | bottom | left */
+		}
+
+
+
+.page-splits		{
+			height: 2px;
+			border: #086745 0px solid;
+			border-top: #414D61 1px solid;
+			background-color: #8092AE;
+			color: #8092AE;
+			}
+
+.faqline		{ border-bottom: #8092AE 1px solid; }
+
+
+
+
+/* SITE SEARCH BACKGROUND */
+
+.googlesearch		{ background-color: #FFFFFF; background-image: none; }
+
+
+
+
+
+
+
+
+
+
+/* LEFT SIDEBAR OPTIONS */
+
+.sidebar-background, .sidebar-background2
+			{
+			background-image: url("../picts/bluegray/background-sidebar.gif");
+			background-color: #000000;
+			background-repeat: repeat-y;
+			}
+
+.sideborder		{ BORDER: #8092AE 1px solid; }
+
+.sidebartitle		{ COLOR: #8092AE; FONT: 13px verdana, arial, sans-serif; font-weight: bold; }
+
+.sidebartext		{ COLOR: #A8B7CD; FONT: 10px verdana, arial, sans-serif; font-weight: bold; }
+
+
+a.sidelink:link, a.sidelink:visited, a.sidelink:active	{ color: #CCFFFF; text-decoration: none; }
+
+a.sidelink:hover					{ color: #CCFF99; text-decoration: underline; }
+
+
+
+
+
+
+
+
+
+
+/* FOR RIGHT SIDEBAR */
+
+.sidebartext-right	{ color: #F0F0F0; FONT: 11px arial, verdana,  sans-serif; font-weight: bold; }
+
+fieldset 	{
+		border: #8092AE 1px solid;
+		}
+
+fieldset legend {
+		FONT: bold 13px arial, verdana, sans-serif;
+		COLOR: #FFFFFF;
+		border:1px solid #8092AE;
+		background-color: #54627C;
+		}
+

@@ -22,8 +22,7 @@ var colorstyle	 	= "blackwhite"	// TEMPLATE COLOR
 
 
 
-// COPYRIGHT 2007 © Allwebco Design Corporation
-// Unauthorized use or sale of this script is strictly prohibited by law
+
 
 // YOU DO NOT NEED TO EDIT BELOW THIS LINE
 

@@ -1,4 +1,4 @@
-<!-- Begin CSS Horizontal Menu - menu ver 3.0 2008
+<!-- Begin CSS Horizontal Menu - menu ver 3.0 2012
 
 // NOTE: If you use a ' add a slash before it like this \'
 

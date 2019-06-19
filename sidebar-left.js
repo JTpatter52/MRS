@@ -14,8 +14,6 @@ var flashheight		= "150"		// HEIGHT OF THE FLASH (IN PIXELS)
 
 
 
-// COPYRIGHT 2008 © Allwebco Design Corporation
-// Unauthorized use or sale of this script is strictly prohibited by law
 
 // YOU DO NOT NEED TO EDIT BELOW THIS LINE
 
